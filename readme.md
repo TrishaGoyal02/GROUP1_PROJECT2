@@ -11,4 +11,5 @@
 4. Normalisation Tables.xlsx : This file contains the original table which we extracted from the membership 
 cancellation form and we normalized that table upto 3NF.
 
-![image](https://user-images.githubusercontent.com/93216575/157846363-a3614e71-ee57-4d80-8153-9efeb643187b.png)
+![image](https://user-images.githubusercontent.com/93216575/157852950-8fc4ea89-3923-4f21-a992-02381ae86ae3.png)
+
